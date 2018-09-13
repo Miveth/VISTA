@@ -14,9 +14,19 @@ namespace WindowsFormsApplication1
         [STAThread]
         static void Main()
         {
+           
+
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Form1 f = new Form1();
+            //cambiamos la dimensiones de form
+            f.SetBounds(0, 0, 500, 600);
+            //Application.Run(f);
+            //Application.Run(new videoAudio());
+            //Application.Run(new Fechas());
+            Application.Run(new ImagenS());
+
         }
     }
 }

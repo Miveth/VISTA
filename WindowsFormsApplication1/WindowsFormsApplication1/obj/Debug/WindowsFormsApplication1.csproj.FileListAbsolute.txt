@@ -1,1 +1,15 @@
 C:\Users\M&M\Desktop\cosasM\ANALISIS2\LabAYD2\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.videoAudio.resources
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fechas.resources
+C:\Users\M&M\Desktop\cosasM\COMPI2\2S2018\Ventanas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ImagenS.resources
